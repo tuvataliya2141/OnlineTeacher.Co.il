@@ -1,0 +1,44 @@
+Admin Side 
+-- Admin login , Logout
+-- User Crud 
+-- Categories Crud 
+-- Product Crud
+-- Slider Crud
+-- Banner Crud 
+-- CMS Page (About ,Help , Privacy )
+-- Customer Order Listing And Order Detail  View Page 
+-- Order status change functionality using Modal
+-- Subcriber Listing
+-- contact us Listing,View 
+-- Send notifications Functionality 
+-- Dashboard Total Counts Display Block of Completed Modules
+
+Front Side 
+
+-- User login , Logout 
+-- User Account Fetching , Upadte  (MyAccount Page) 
+-- User Change Password Funtionality  
+-- Browse all Product and Browse product by category (With Dynamic data)
+-- Product Detail Page (With Dynamic data)
+-- Related Products Display Dynamic
+-- Wishlist Page and functionality 
+-- Cart Page design , Functionality
+-- Cart Update button functionality from Cart page 
+-- Checkout Page design Functionality
+-- Delete Product  functionality  from wishlist,Cart 
+-- Ajax Effects of Product Add to wishlist,add to cart ,Cart Header Dropdown
+-- Customer order Placing as per Templete Flow (Payment Setup & shipping is Remaining)
+-- Customer Order Display page as (My order Page )
+-- Customer Order History Detail display on (My order Page )
+-- Contact Us Functionality 
+-- Subscribe with Us functionality 
+-- Display customer order detail on modal
+-- Pagination
+-- Product Sorting
+
+
+
+
+
+
+

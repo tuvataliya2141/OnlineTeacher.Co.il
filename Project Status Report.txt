@@ -1,0 +1,33 @@
+#Flowershop  Project  Status 
+
+Admin Side 
+-- Admin login , Logout
+-- User Crud 
+-- Categories Crud 
+-- Product Crud
+-- Slider Crud
+-- Banner Crud 
+-- CMS Page (About ,Help , Privacy )
+-- Customer Order Listing And Order Detail  View Page 
+
+Front Side 
+
+-- User login , Logout 
+-- Browse all Product and Browse product by category (With Dynamic data)
+-- Product Detail Page (With Dynamic data)
+-- Related Products Display 
+-- Product Add to cart Functionality 
+-- Cart Product Fetching on cart page as well as on header cart  Dropdown 
+-- Delete Product from Cart functionality 
+-- Customer order Placing as per Templete Flow (Payment Setup and shipping Charges is remaining in this )
+-- Customer Order Display page as (My order Page )
+-- Customer Order History Detail display on (My order Page )
+-- Contact Us Functionality 
+-- Subscribe with Us functionality 
+-- User Account Fetching , Upadte on MyAccount Page 
+--User Change Password Funtionality  
+
+
+
+
+

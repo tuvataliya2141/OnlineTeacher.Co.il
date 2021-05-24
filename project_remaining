@@ -1,0 +1,60 @@
+#Flowershop Remaining Works 
+
+Admin Side 
+ 
+-- Payment Concept and Module
+-- Product Rating View 
+
+
+Front Side 
+
+-- Product Searching
+-- Price range Filter 
+-- Order Cancellation by Customer 
+-- Product Stock Quantity Management (Base on Order , Cancel Order)
+-- Guest User Concept 
+-- Payment Options When Checkout
+-- Banner /Slider Wise Product Display(category Banner wise Display)
+-- Product Rating Dynamic Display from database 
+-- Top Products , Best Sellers , Featured Products 
+-- customer Forget Password functionality  
+
+
+
+ 
+@Prashant I'm checking Flowershop Front Panel. And find some correction. So please fix it.
+
+http://prntscr.com/tgmwq3  -- header space 
+http://prntscr.com/tgmxxs  -- product name in breadcum
+http://prntscr.com/tgmz5j  -- add to cart- Login Warning ---------------------------------------Done  
+http://prntscr.com/tgmzn6  -- login page validation error proper 
+http://prntscr.com/tgn04c  -- login register Tab selection proper ------------------------------- Done 
+http://prntscr.com/tgn0bq  -- forget password functionality 
+http://prntscr.com/tgn11q  -- data beacth shold not display , redirect to home page -- redirect done
+http://prntscr.com/tgn226  -- password ,confirm password error validation 
+http://prntscr.com/tgn2mq  -- Username / password wrong , set warning not error -------------------Done
+
+
+--------------
+
+http://prntscr.com/tgn4ks -- Product detail on top prdouct left Side ------------------- Done 
+http://prntscr.com/tgn4xr -- active category Highlight
+http://prntscr.com/tgn6m6 -- Show by digit arrow Hide 
+http://prntscr.com/tgn70j -- slider link not Working
+http://prntscr.com/tgn78e -- banner update , Banner link not working 
+http://prntscr.com/tgn8i1 -- footer Display atleast 6 category 
+http://prntscr.com/tgn8ym -- Subscriber Warning and error Display 
+http://prntscr.com/tgn9bb -- Price  Range filter 
+http://prntscr.com/tgna0j -- Header Menu link highlight for active page 
+http://prntscr.com/tgnnvb -- on top after login Display fname lname for user 
+http://prntscr.com/tgnoqb -- blank cart header on 0 item 
+http://prntscr.com/tgnp3c -- wishlist count proper on header 
+http://prntscr.com/tgnpf2  -- Display proper message on mycart page when no items 
+http://prntscr.com/tgnq5b -- product detail on front page -- Done 
+http://prntscr.com/tgnr51 -- Add to wishlist proper message 
+http://prntscr.com/tgnro5 -- Dont understand , unique wishlist entry 
+http://prntscr.com/tgns6a -- header Cart Description ,not clear 
+http://prntscr.com/tgnsgb -- open Redirect When click on cart header product link
+http://prntscr.com/tgnssy -- open Product detail from Wishlist /cart page by name and image 
+http://prntscr.com/tgnt4x -- Dont open login page when already login ---------------Done 
+http://prntscr.com/tgnwsp --  Display product Reviews on product detail page by product id
